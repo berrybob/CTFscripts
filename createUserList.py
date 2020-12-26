@@ -1,4 +1,4 @@
-# A script used to generate certain surname & lastname patterns
+# Takes a list of surnames & lastnames and prints out certain name combinations
 import sys
 
 wordlist = []
